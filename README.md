@@ -11,6 +11,8 @@ The following members have full access to the GIT:
 ==================================================
 
 EvilDragon (main administrator), EvilDragon@openpandora.org  
+Traumfalke (forum name: Dresha), Development leader
+Ponsen (forum name: Ponsen)
 FullContactCoding (forum name: TimsterToo), tim@fullcontactcoding.com  
 BinkyToo (forum name: Binky)  
 rucodemente (forum name: cuetzpalin)  
